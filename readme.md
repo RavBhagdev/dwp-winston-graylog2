@@ -1,5 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/namshi/winston-graylog2.png)](http://travis-ci.org/namshi/winston-graylog2)
 
+This is a fork from winston-graylog2 (https://github.com/namshi/winston-graylog2).  It is created to add some customisation that are necessary for a custom format used in one of our projects.  
+
 # winston-graylog2 
 
 A [graylog2][0] transport for [winston][1] based on the [node-graylog2][2] Library
